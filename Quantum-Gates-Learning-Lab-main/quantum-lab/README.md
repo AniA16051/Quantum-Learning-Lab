@@ -1,10 +1,10 @@
-# ⚛️ Quantum Gates Learning Lab
+# Quantum Gates Learning Lab
 
 A high-fidelity, interactive educational platform designed to bridge the gap between quantum theory and practical intuition. Built with a premium glassmorphic UI, this lab provides deep dives into quantum mechanics, gate logic, and circuit optimization.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 The project leverages a modern, performance-first stack to deliver a smooth "glass-on-silk" experience:
 
@@ -16,7 +16,7 @@ The project leverages a modern, performance-first stack to deliver a smooth "gla
 
 ---
 
-## 🔬 Core Learning Modules
+## Core Learning Modules
 
 ### 1. Quantum Fundamentals Explorer
 *   **Purpose**: Introduces students to the building blocks of quantum information.
@@ -63,7 +63,7 @@ The project leverages a modern, performance-first stack to deliver a smooth "gla
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 quantum-lab/
@@ -82,7 +82,7 @@ quantum-lab/
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -97,9 +97,9 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Anirudh Ashok**  
 *RA2411003010128*
 
-## 📜 License
+## License
 Educational Project. Build for the future.
