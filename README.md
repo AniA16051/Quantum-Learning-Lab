@@ -1,4 +1,4 @@
-#  Quantum Gates Learning Lab
+#  Quantum Learning Lab
 
 A high-fidelity, interactive educational platform designed to bridge the gap between quantum theory and practical intuition. Built with a premium glassmorphic UI, this lab provides deep dives into quantum mechanics, gate logic, and circuit optimization.
 
